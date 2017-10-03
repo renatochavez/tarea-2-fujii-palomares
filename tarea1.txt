@@ -1,0 +1,7 @@
+﻿1. 
+a) SINGLE RESPONSABILITY:
+en primer lugar , se viola el principio de de Single responsability, pues la funcion main tiene responsabilidades de eleccion, osea, cuando selijes una opcion procesa logica aparte de las funciones de main y ejecucion que ya de por si tiene de mostrar  y recibir input
+b)OPEN CLOSED:
+Se viola el principio de open closed, porque en caso queiras agregar nuevas peliculas, debes modificar la clase"cineplaneta, o la clase cinestark para añadirlos, sin mencionar que los metodos de estas clases sufren de lo mismo, y no solo eso, se repiten y deben ser cambiados en cada momento.
+c) INVERSION DE DEPENDENCIA
+La funcion  main ltieralmetne se encarga de instanciar todos los objetos y llama a todo el proceso de seleccion de peliculas/Cine, en vez de las clases y sus procesos el sistema entero depene de la ejecucion del codigo en main, lo cual infringe la inversion de dependencia.
