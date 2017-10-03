@@ -1,7 +1,7 @@
 ## Tarea 2-Fujii-Palomares
 
-#Pregunta 1: 
-- En Tarea 1
+# Pregunta 1: 
+- En Tarea1.txt
 
 # Pregunta 2:
 Se utilizaron 3 tipos de patrones de diseño. 
